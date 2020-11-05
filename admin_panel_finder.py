@@ -6,7 +6,7 @@ from urllib2 import Request, urlopen, URLError, HTTPError
 def Space(j):
 	i = 0
 	while i<=j:
-		print " ",
+		print "n",
 		i+=1
 
 
